@@ -1,0 +1,28 @@
+.heading{
+    text-align: center;
+    margin-top: 100px;
+    color:#573391;
+    font-family: 'Balsamiq Sans', cursive;
+    font-family: 'Play', sans-serif;
+}
+.para{
+    text-align: center;
+    color:#1572A1;
+    font-family: 'Balsamiq Sans', cursive;
+    font-family: 'Overpass', sans-serif;
+    font-family: 'Play', sans-serif;
+}
+body{
+    background-color:#CAF0F8;
+}
+.form{
+    text-align: center;
+}
+.download{
+    text-align: center;
+}
+.table{
+    display: inline;
+    position: relative;
+    left:25%;
+}
